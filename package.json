@@ -1,5 +1,5 @@
 {
-  "name": "use-persisted-state",
+  "name": "@shapeable/use-persisted-state",
   "publishConfig": {
     "tag": "latest"
   },
